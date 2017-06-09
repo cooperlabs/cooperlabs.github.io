@@ -8,5 +8,7 @@ body {
    background-color: #000000;
 }
 div1 {
-   background-color: #00560e;
+   font-size: 15px
+   color: #ffd800
+   text-decoration: underline wavy blue;
 }
